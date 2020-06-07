@@ -1,9 +1,9 @@
 # .hyper.js
-hyper setting
+https://hyper.is/
 
 
 ---
 
-https://hyper.is/
+
 
 내가 쓰는 세팅
